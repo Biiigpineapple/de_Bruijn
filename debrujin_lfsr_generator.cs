@@ -100,7 +100,7 @@ public class deBrujin
 
 
     /*
-     *  Function: the look up table of the primitive polynomial coefficient of the de Bruijn sequence
+     *  Function: the look up table of the primitive polynomial coefficient of the de Bruijn sequence, now support n = 4, 6, 10, 16, 20, 24, 30
      *  
         Input Arguments:
      *      1. n: the index of de Bruijn sequence
